@@ -32,7 +32,7 @@ PyYAML==5.1.1
 requests==2.20.0
 simplejson==3.16.0
 six==1.10.0
-SQLAlchemy==1.1.14
+SQLAlchemy==1.2.18
 sqlalchemy-mixins==0.2.2
 text-unidecode==1.2
 typing==3.6.2
